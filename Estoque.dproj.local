@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/18 22:22:47.000.591,=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/28 13:22:51.000.112,=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/28 13:40:26.000.495,=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/28 18:04:05.000.629,=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/01 21:26:35.000.937,=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 21:40:50.000.969,=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 21:41:33.000.294,C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\uPrincipal.dfm=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/03/22 21:41:33.000.294,C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\uPrincipal.pas=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 21:41:50.000.492,C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Estoque.dproj=C:\Users\Rafael\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/03/22 21:43:13.000.186,=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 21:43:57.000.033,C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\uCadProdutos.pas=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 21:43:57.000.033,C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\uCadProdutos.dfm=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit1.dfm</Transaction>
+    <Transaction>2023/03/22 21:44:02.000.109,=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit2.pas</Transaction>
+    <Transaction>2023/03/22 21:44:33.000.755,C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\uCadMovimentacao.dfm=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit2.dfm</Transaction>
+    <Transaction>2023/03/22 21:44:33.000.755,C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\uCadMovimentacao.pas=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit2.pas</Transaction>
+    <Transaction>2023/03/22 21:45:03.000.829,=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit2.pas</Transaction>
+    <Transaction>2023/03/22 21:46:14.000.257,C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\uConsMovimentacao.pas=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit2.pas</Transaction>
+    <Transaction>2023/03/22 21:46:14.000.257,C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\uConsMovimentacao.dfm=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit2.dfm</Transaction>
+    <Transaction>2023/03/22 21:46:33.000.141,=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 21:46:57.000.928,C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\unitDM.pas=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit1.pas</Transaction>
+    <Transaction>2023/03/22 21:46:57.000.928,C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\unitDM.dfm=C:\Users\Rafael\Desktop\projetos\Delphi\Estoque\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
