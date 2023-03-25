@@ -1,2 +1,2 @@
 # Estoque
-Projeto de um sistema de estoque, como parte de estudos em Delphi
+Projeto de um sistema simples de estoque, como parte de estudos em Delphi
